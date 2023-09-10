@@ -1,0 +1,1 @@
+# Result_summary_component
